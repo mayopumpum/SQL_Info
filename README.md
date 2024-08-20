@@ -1,5 +1,5 @@
 # SQL_Info
-Учебный проект по языку SQL (Школа 21)
+SQL Language Tutorial Project
 
 ### Задание разделено на четыре части.
 
